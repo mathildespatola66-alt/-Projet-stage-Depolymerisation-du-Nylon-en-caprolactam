@@ -1,0 +1,20 @@
+{
+    "Acidic_Hydrolysis": [
+        "H3PO4",
+        "Fe- MOF-1 ",
+        "Fe- MOF-2",
+        "H3PW12O40 HPA"
+    ],
+    "Neutral_Hydrolysis": [
+        0,
+        " m‑ZrO2"
+    ],
+    "Alkaline_Hydrolysis": [
+        "NaOH-KOH",
+        "NaOH",
+        0
+    ],
+    "Alcoholysis": [
+        0
+    ]
+}

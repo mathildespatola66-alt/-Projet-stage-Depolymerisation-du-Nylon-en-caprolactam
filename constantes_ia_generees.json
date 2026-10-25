@@ -1,0 +1,38 @@
+{
+    "acide_hcl": {
+        "Ea_J_mol": 10000.0,
+        "A_h_1": 65.12,
+        "n_ordre": 4.0,
+        "m_catalyseur": 0.038
+    },
+    "acide_h2so4": {
+        "Ea_J_mol": 10000.0,
+        "A_h_1": 67.46,
+        "n_ordre": 4.0,
+        "m_catalyseur": 0.003
+    },
+    "acide_msa": {
+        "Ea_J_mol": 10000.0,
+        "A_h_1": 72.55,
+        "n_ordre": 4.0,
+        "m_catalyseur": -0.032
+    },
+    "acide_p-tsa": {
+        "Ea_J_mol": 10000.0,
+        "A_h_1": 64.93,
+        "n_ordre": 4.0,
+        "m_catalyseur": 0.021
+    },
+    "acide_bsa": {
+        "Ea_J_mol": 10000.0,
+        "A_h_1": 70.4,
+        "n_ordre": 4.0,
+        "m_catalyseur": -0.026
+    },
+    "alcaline_naoh-koh": {
+        "Ea_J_mol": 118990.2,
+        "A_h_1": 332000000000.0,
+        "n_ordre": 4.0,
+        "m_catalyseur": 1.16
+    }
+}
